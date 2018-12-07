@@ -20,21 +20,21 @@
   * 검색 원리
     * Crawling
 *  Chrome
-* Cupcake(1.5)
-* Donut(1.6)
-* Eclair(2.0~2.1)  
-* Froyo(2.2~2.21)
-* Gingerbread(2.3~2.3.7)
-* Honeycomb(3.0/3.1/3.2)
-* Ice Cream
-* Sandwich(4.0~4.0.4)
-* Jellybean(4.1~4.3.1)
-* Kitkat(4.4~4.4.4)
-* Lollipop(5.0~5.1.1)
-* Marshmallow(6.0~6.0.1)  
-* Nougat(7.0~7.1.2)
-* Oreo(8.0~8.1)
-* Pie(9.0)
+* Version of Android 
+  * Cupcake(1.5) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_1.5_%EC%BB%B5%EC%BC%80%EC%9D%B4%ED%81%AC] 
+  * Donut(1.6) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_1.6_%EB%8F%84%EB%84%9B]
+  * Eclair(2.0~2.1) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_2.0_/_2.1_%EC%97%90%ED%81%B4%EB%A0%88%EC%96%B4] 
+  * Froyo(2.2~2.21) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_2.2_%ED%94%84%EB%A1%9C%EC%9A%94]
+  * Gingerbread(2.3~2.3.7) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_2.3_%EC%A7%84%EC%A0%80%EB%B8%8C%EB%A0%88%EB%93%9C]
+  * Honeycomb(3.0/3.1/3.2) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_3.0_~_3.2_%ED%97%88%EB%8B%88%EC%BD%A4]
+  * Ice Cream Sandwich(4.0~4.0.4) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_4.0_%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC_%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98]
+  * Jellybean(4.1~4.3.1) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#4.1_~_4.3_%EC%A0%A4%EB%A6%AC%EB%B9%88]
+  * Kitkat(4.4~4.4.4) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_4.4_%ED%82%B7%EC%BA%A3]
+  * Lollipop(5.0~5.1.1) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_5.0_~_5.1.1_%EB%A1%A4%EB%A6%AC%ED%8C%9D]
+  * Marshmallow(6.0~6.0.1)  [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_6.0_%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C]
+  * Nougat(7.0~7.1.2) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_7.0_%EB%88%84%EA%B0%80]
+  * Oreo(8.0~8.1) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_8.0_%EC%98%A4%EB%A0%88%EC%98%A4]
+  * Pie(9.0) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_9.0_%ED%8C%8C%EC%9D%B4]
 ### iOS
 * Apple
 * Apple App Store
