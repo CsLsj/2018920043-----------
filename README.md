@@ -143,16 +143,41 @@
 ## Database
 ### RDB
 * MySQL
- * History
-  * One of the most famous free DBMS
-  * Open Source
+  * History
+    * 1994년 MySQL 개발
+    * 1995년 5월 최초의 국제화판
+    * 3.19판 : 1996년 말
+    * 3.20판 : 1997년 1월
+    * 1998년 1월 8일 윈도 판 출시
+    * 3.21판 : 1998년
+    * 3.22판 : 1998년 알파, 베타판
+    * 3.23판 : 2001년 1월 22일 제품 출시
+    * 4.0판 : 2003년 3월 제품 출시 
+    * 4.01판 : Jyoti 데이터베이스 트래킹용으로 MySQL 채택
+    * 4.1판 : 2004년 10월 제품 출시
+    * 5.0판 : 2005년 10월 제품 출시
+    * 2008년 썬마이크로씨스템즈에서 MySQL AB를 인수
+    * 5.1판 : 2008년 11월 27일 출시
+    * 2010년 1월 27일 오라클이 썬마이르코씨스템즈 인수
+   * One of the most famous free DBMS
+   * Open Source
 * MariaDB
+  * History
+    * 몬트 와이드니어스가 몇 명의 동료들과 썬을 나와 2009년에 개발 시작
+    * 몬트 와이드니어스의 딸 이름 Maria에서 이름을 
   * Based on MySQL
   * Open Source DBMS
   * It is based on MySQL so it is perfectly compatied with MySQL
 * Oracle
+  * History
+    * 1977년 래리 엘리슨이 밥 마이너와 Ed Oates와 함께 SDL이라는 이름으로 오라클을 공동 설립
+    * 1979년 SDL에서 RSI로 사명을 변경
+    * 1982년 사명을 Oracle Systems Corporation으로 변경 -> 오라클 데이터베이스와 더 밀접하게 배치
+    * 1986년 3월 12일 기업 공개
+    * 1995년 사명을 Oracle Corporation으로 변경, 이후 공식 명칭은 오라클
   * Most famous DBMS(Not free)
   * Database Management System
+    * 엔터프라이즈 에디션, 스탠다드 에디션, 스탠다드 에디션 1, 익스프레스 에디션, 오라클 퍼스널 에디션, 오라클 데이터베이스 라이트
   * Cloud Database
   * Autonomic Management & Autonomic Security
 * PostgreSQL
