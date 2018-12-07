@@ -184,6 +184,12 @@
   * ORDBMS
 ### NoSQL
 * MongoDB
+  * Document Oriented Database
+  * Free-Open Source Software
+  * Languages
+    * JavaScript
+    * CoffeeScript
+    * TypeScript
   * Provides various indexing
   * Use memory mapped file
   * When writting the data by MongoDB, OS logically write it on memory space on constant cycle.
@@ -192,9 +198,10 @@
 * Cassandra
 * HBase
 ### 내가 사용할 Database : MySQL
- * 전세계에서 가장 애용되는 Database이기 때문에 다른 Database 프로그램에 비해 접근성이 좋아 비교적 홍보가 쉽다.
- * 무료로 제공되는 Database이기 때문에 학생 신분인 나에게 있어 부담을 덜어준다.
- * 많은 사람들이 사용하는 프로그램인 만큼 다른 사람들의 정보를 얻기가 쉽고 보다 간편한 작업에 도움을 줄 수 있다.
- * Windows, Linux, Solaris 등 다양한 플랫폼에서 운용이 가능하다.
- * Youtube, PayPal, Google, Facebook, ebay, GitHub, NETFLIX 등 다양한 기업들과 친밀한 관계가 있기에 안드로이드 클라이언트를 사용하게 될 나로서는 구글과 관계가 있는 MySQL을 선택하게 되었다.
- * 관계형 데이터베이스 프로그램이기 때문에 NoSQL보다 사용에 편리하다.
+* Why?
+  * 전세계에서 가장 애용되는 Database이기 때문에 다른 Database 프로그램에 비해 접근성이 좋아 비교적 홍보가 쉽다.
+  * 무료로 제공되는 Database이기 때문에 학생 신분인 나에게 있어 부담을 덜어준다.
+  * 많은 사람들이 사용하는 프로그램인 만큼 다른 사람들의 정보를 얻기가 쉽고 보다 간편한 작업에 도움을 줄 수 있다.
+  * Windows, Linux, Solaris 등 다양한 플랫폼에서 운용이 가능하다.
+  * Youtube, PayPal, Google, Facebook, ebay, GitHub, NETFLIX 등 다양한 기업들과 친밀한 관계가 있기에 안드로이드 클라이언트를 사용하게 될 나로서는 구글과 관계가 있는 MySQL을 선택하게 되었다.
+  * 관계형 데이터베이스 프로그램이기 때문에 NoSQL보다 사용에 편리하다.
