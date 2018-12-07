@@ -36,6 +36,13 @@
   * Oreo(8.0~8.1) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_8.0_%EC%98%A4%EB%A0%88%EC%98%A4]
   * Pie(9.0) [https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_9.0_%ED%8C%8C%EC%9D%B4]
 ### iOS
+* History
+  * 2010년 6월 8일, WWDC 2010 기조 연설에서 스티브 잡스가 공식 명칭을 iOS로 변경한다 밝힘
+  * 2013년 6월 10일, iOS 7이 정식 공개
+  * 2014년 6월 3일, iOS 8 공개, 그 이후 2014년 9월 18일 아이폰6, 아이폰6 플러스 공개 및 정식 배포 시작
+  * 2015년 6월 8일, iOS 9 공개, 일반 사용자들을 대상으로 한 퍼블릭 베타 버전도 공개
+  * 2016년 6월 13일, iOS 10 공개, 2016년 9월 13일 정식 배포 시작
+  * 2017년 6월 5일, iOS 11 
 * Apple
 * Apple App Store
 * Out-of-box experience
@@ -72,6 +79,9 @@
 ### C#,C++ Server
 * Real Time match
 ### node.js
+* History
+  * 최초 버전은 2009년 리눅스 기반으로 출시
+  * 2011년 6월 마이크로소프트는 Joyent와 파트너십을 맺고 7월에 윈도용 최초 버전을 출시
 * Use Java Script
 * Non-blocking I/O
 * High performance
@@ -86,7 +96,7 @@
 * Can be used with BSD, Linx, Unix, Microsoft Windows, etc...
 * http -> https by installing Open-SSL, Mod-SSL
 
-### 내가 사용할 서버 : Apache
+### 내가 사용할 서버 : Apache HTTP Server
 * Why?
  * 2017년 10월 기준 웹 서버 소프트웨어의 순위 1등으로써 점유율은 44.89%이기 때문에 다른 서버에 비해 보다 많은 사용자의 접근에 용이하다.
  * 많은 플랫폼에서 사용되기에 호환성이 좋다.
@@ -95,12 +105,24 @@
 
 ## Cache
 ### Memcached
+* History
+  * 2003년 5월 22일 Brad Fitzpatrick이 자신의 웹사이트 라이브저널을 위해 최초 개발
+  * 이후 Anatoly Vorobey에 의해 C로 재개발, 이후 라이브저널에 채용
+  * 유투브, 레딧, 페이스북, 핀터레스트, 트위터, 위키백과에 사용됨
+* Provides Service by API
 * Universal Distributed Cache System
 * To reduce the reading count of external data sources, memcached cache processes data and object to the RAM
 * Based on Stability and Optimization
 * Free-Open Source Software
 * Operated in Unix, Linux, MacOS, Microsoft Windows
 ### redis
+* Language
+  * Actionscript, C, C++, C#, Clojure, 커먼 리스프, Dart, Erlang, Go, Haskell, Haxe, Io, Java, Node.js, Lua, etc...
+* Data Model
+  * 문자열의 리스트
+  * 문자열의 집합
+  * 문자열의 정렬된 집합
+  * 키와 밸류가 스트링인 해시
 * Provides a variety of open source in memory data value
 * Has a very fast speed
 * Redis is easier and powerful than memcached
