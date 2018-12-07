@@ -59,18 +59,18 @@
  * Popular for Server
  * Late
 * Ubuntu Linux
- * APT
-   * Package & Software manager
- * Extensive Program compared to Linux debian
- * Comfortable than Linux debian
+  * APT
+  * Package & Software manager
+  * Extensive Program compared to Linux debian
+  * Comfortable than Linux debian
 * Linux Mint
 * Free Software
 #### 내가 선택할 클라이언트 : Andriod
 * Why?
- * 압도적인 이용자 수
- * 구글과 연동이 되기에 사용하기에 편하다.
- * 오픈소스이기에 보다 접근하기가 쉽다.
- * 현재 한국의 많은 사람들이 android os를 사용중이기에 보다 많은 사용자를 얻을 수 있다.
+  * 압도적인 이용자 수
+  * 구글과 연동이 되기에 사용하기에 편하다.
+  * 오픈소스이기에 보다 접근하기가 쉽다.
+  * 현재 한국의 많은 사람들이 android os를 사용중이기에 보다 많은 사용자를 얻을 수 있다.
 
 ## Server
 ### Apache Tomcat
@@ -98,10 +98,10 @@
 
 ### 내가 사용할 서버 : Apache HTTP Server
 * Why?
- * 2017년 10월 기준 웹 서버 소프트웨어의 순위 1등으로써 점유율은 44.89%이기 때문에 다른 서버에 비해 보다 많은 사용자의 접근에 용이하다.
- * 많은 플랫폼에서 사용되기에 호환성이 좋다.
- * 정적인 컨텐트, 다이나믹 콘텐츠, CGI 스크립트, 사이트 생성, 서버 외부 처리, Fact CGI, 자바 서블릿, 임베디드 인터프리트 등 다양한 수행 능력을 가지고 있다.
- * 아파치 HTTP 서버의 작성 언어는 C, C++, XML로써 비교적 다루기 쉽다.
+  * 2017년 10월 기준 웹 서버 소프트웨어의 순위 1등으로써 점유율은 44.89%이기 때문에 다른 서버에 비해 보다 많은 사용자의 접근에 용이하다.
+  * 많은 플랫폼에서 사용되기에 호환성이 좋다.
+  * 정적인 컨텐트, 다이나믹 콘텐츠, CGI 스크립트, 사이트 생성, 서버 외부 처리, Fact CGI, 자바 서블릿, 임베디드 인터프리트 등 다양한 수행 능력을 가지고 있다.
+  * 아파치 HTTP 서버의 작성 언어는 C, C++, XML로써 비교적 다루기 쉽다.
 
 ## Cache
 ### Memcached
@@ -136,33 +136,34 @@
 * Provides a middle-ter Cache -> To store data & an easy-to-use management interface for managing the Oracle Database Cache environment.
 ### 내가 사용할 Cache : memcached
 * Why?
- * 오픈 소스이기에 학생 신분인 저로서는 큰 이점을 가집니다.
- * 안전성과 최적화에 기반을 둔 캐시이기에 경험이 부족한 저에게 보다 나은 선택지를 제공해줍니다.
- * redis가 memcached보다 빠른 속도, 더 다양한 기능을 가졌지만, 안전성이라는 이점을 가지고 있기에 memcached를 선택하게 되었습니다.
+  * 오픈 소스이기에 학생 신분인 저로서는 큰 이점을 가집니다.
+  * 안전성과 최적화에 기반을 둔 캐시이기에 경험이 부족한 저에게 보다 나은 선택지를 제공해줍니다.
+  * redis가 memcached보다 빠른 속도, 더 다양한 기능을 가졌지만, 안전성이라는 이점을 가지고 있기에 memcached를 선택하게 되었습니다.
 
 ## Database
 ### RDB
 * MySQL
- * One of the most famous free DBMS
- * Open Source
+ * History
+  * One of the most famous free DBMS
+  * Open Source
 * MariaDB
- * Based on MySQL
- * Open Source DBMS
- * It is based on MySQL so it is perfectly compatied with MySQL
+  * Based on MySQL
+  * Open Source DBMS
+  * It is based on MySQL so it is perfectly compatied with MySQL
 * Oracle
- * Most famous DBMS(Not free)
- * Database Management System
- * Cloud Database
- * Autonomic Management & Autonomic Security
+  * Most famous DBMS(Not free)
+  * Database Management System
+  * Cloud Database
+  * Autonomic Management & Autonomic Security
 * PostgreSQL
- * ORDBMS
+  * ORDBMS
 ### NoSQL
 * MongoDB
- * Provides various indexing
- * Use memory mapped file
- * When writting the data by MongoDB, OS logically write it on memory space on constant cycle.
+  * Provides various indexing
+  * Use memory mapped file
+  * When writting the data by MongoDB, OS logically write it on memory space on constant cycle.
 * Couchbase
- * Map & reduced
+  * Map & reduced
 * Cassandra
 * HBase
 ### 내가 사용할 Database : MySQL
